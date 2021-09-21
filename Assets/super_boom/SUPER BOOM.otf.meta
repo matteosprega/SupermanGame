@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 88a7ea13c034f47ca8549cbd8949e622
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Super Boom
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 200eb5d51f071429692a673d1773c9a7, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
